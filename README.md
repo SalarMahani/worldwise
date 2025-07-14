@@ -7,7 +7,7 @@ It lets users mark cities they’ve visited, store notes, and visualize location
 Live Demo: 👉 [https://worldwise-kappa-henna.vercel.app/](https://worldwise-kappa-henna.vercel.app/)<br>
 This project uses a local JSON Server to simulate a backend (data/cities.json).
 Because Vercel does not support long-running servers, the live demo only allows viewing locations on the map.<br>
-If you want to add or save new locations, you can Run the project locally or Download the Image & run the container.
+If you want to add or save new locations, you can Run the project locally or Download the Image & run a container.
 
 <br>
 
