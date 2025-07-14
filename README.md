@@ -1,14 +1,15 @@
 # 🌍 WorldWise
 
-**WorldWise** is a travel tracking and planning app originally created by [Jonas Schmedtmann](https://github.com/jonasschmedtmann). This version has been modified, Dockerized and Specialized by me.
+**WorldWise** is a travel tracking and planning app originally created by [Jonas Schmedtmann](https://github.com/jonasschmedtmann).<br>
+This version has been modified, Dockerized and Specialized by me.
 It lets users mark cities they’ve visited, store notes, and visualize locations on a map — all in a clean and modern interface.
 
-Live Demo: 👉 [https://worldwise-kappa-henna.vercel.app/](https://worldwise-kappa-henna.vercel.app/)
+Live Demo: 👉 [https://worldwise-kappa-henna.vercel.app/](https://worldwise-kappa-henna.vercel.app/)<br>
 This project uses a local JSON Server to simulate a backend (data/cities.json).
 Because Vercel does not support long-running servers, the live demo only allows viewing locations on the map.
-
 If you want to add or save new locations, you can Run the project locally or Download the Image & run the container.
----
+
+<br>
 
 ## 🚀 Features
 
@@ -17,7 +18,7 @@ If you want to add or save new locations, you can Run the project locally or Dow
 - 🗺 Save and track visited locations
 - 💡 Responsive UI and modern design
 
----
+<br><br>
 
 ## 🛠️ Technologies Used
 
@@ -31,13 +32,11 @@ If you want to add or save new locations, you can Run the project locally or Dow
 | Hosting | Vercel |
 | Containerization | Docker |
 
----
+<br><br>
 
 ## 📦 Getting Started
 
 You have two options to run this project:
-
----
 
 ### 🔧 Option 1: Run Locally 
 
