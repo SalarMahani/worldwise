@@ -4,7 +4,10 @@
 It lets users mark cities they’ve visited, store notes, and visualize locations on a map — all in a clean and modern interface.
 
 Live Demo: 👉 [https://worldwise-kappa-henna.vercel.app/](https://worldwise-kappa-henna.vercel.app/)
+This project uses a local JSON Server to simulate a backend (data/cities.json).
+Because Vercel does not support long-running servers, the live demo only allows viewing locations on the map.
 
+If you want to add or save new locations, you can Run the project locally or Download the Image & run the container.
 ---
 
 ## 🚀 Features
@@ -60,7 +63,7 @@ You have two options to run this project:
 
 ### 🔧 Option 2: Run With Docker
 
-1. Download Image & run the container:
+1. Download the Image & run a container:
    ```bash
    docker run -p 5173:5173 -p 9000:9000 albosseeker/worldwise
 
