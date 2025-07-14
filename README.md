@@ -1,6 +1,6 @@
 # 🌍 WorldWise
 
-**WorldWise** is a travel tracking and planning app originally created by [Jonas Schmedtmann](https://github.com/jonasschmedtmann). This version has been modified, Dockerized,Specialized, and deployed by me.
+**WorldWise** is a travel tracking and planning app originally created by [Jonas Schmedtmann](https://github.com/jonasschmedtmann). This version has been modified, Dockerized and Specialized by me.
 It lets users mark cities they’ve visited, store notes, and visualize locations on a map — all in a clean and modern interface.
 
 Live Demo: 👉 [https://worldwise-kappa-henna.vercel.app/](https://worldwise-kappa-henna.vercel.app/)
