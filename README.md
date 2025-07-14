@@ -13,8 +13,6 @@ Live Demo: 👉 [https://worldwise-kappa-henna.vercel.app/](https://worldwise-ka
 - 🌐 Interactive map using Leaflet
 - 🗺 Save and track visited locations
 - 💡 Responsive UI and modern design
-- 🐳 Docker support
-- 🌎 Deployed on Vercel
 
 ---
 
