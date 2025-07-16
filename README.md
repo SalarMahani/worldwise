@@ -28,9 +28,7 @@ If you want to add or save new locations, you can Run the project locally or Dow
 | Styling |  CSS Modules |
 | Maps | Leaflet.js |
 | State Management | React Context API |
-| Backend (local) | JSON Server |
-| Hosting | Vercel |
-| Containerization | Docker |
+| Backend | JSON Server |
 
 <br><br>
 
